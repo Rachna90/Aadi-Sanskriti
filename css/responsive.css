@@ -1,53 +1,19 @@
 @media (max-width:1199px) {
-    .cardslide {
-        width: 100%;
-        max-width: 850px;
-    }
+    .cardslide { width: 100%; max-width: 850px; }
 }
-    
+
 @media (max-width: 1024px) {}
 
 @media (max-width: 991px) {
-    .banner-content h1 {
-        font-size: 36px;
-    }
-
-    .banner-content h1 span {
-        font-size: 46px;
-    }
-
-    .addiSanskriti_content {
-        padding: 0;
-    }
-
-    .aadi-sectioncontent {
-        padding: 0;
-    }
-
-    .aadihat {
-        padding: 60px 0 60px 0;
-    }
-
-    .aadihat .fs-36 {
-        font-size: 28px;
-    }
-
-    .footer_disc {
-        gap: 0;
-        align-items: center;
-        justify-content: ;
-        flex-direction: column;
-        text-align: center;
-    }
-
-    .footer_social {
-        gap: 0;
-        flex-direction: column;
-    }
-
-    .cardslide {
-        width: 100%;
-    }
+    .banner-content h1 { font-size: 36px; }
+    .banner-content h1 span { font-size: 46px; }
+    .addiSanskriti_content { padding: 0; }
+    .aadi-sectioncontent { padding: 0; }
+    .aadihat {padding: 60px 0 60px 0; }
+    .aadihat .fs-36 {font-size: 28px; }
+    .footer_disc { gap: 0; align-items: center; justify-content: center;  flex-direction: column; text-align: center;}
+    .footer_social {gap: 0;flex-direction: column;}
+    .cardslide {width: 100%;}
 }
 
 
